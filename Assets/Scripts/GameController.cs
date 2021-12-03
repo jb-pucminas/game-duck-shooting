@@ -10,7 +10,7 @@ public class GameController : MonoBehaviour
     int totalKill = 0;
     public Text killTXT;
 
-    float timer = 10.0f;
+    float timer = 12.0f;
     public Text timerTXT;
 
     public Image awardImage01;
